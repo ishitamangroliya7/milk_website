@@ -1,0 +1,130 @@
+@media (max-width: 991px) {
+    .container {
+        max-width: 95%;
+    }
+}
+
+@media (max-width: 575px) {
+
+    #distributorForm input[type=text],
+    #distributorForm input[type=email],
+    #distributorForm input[type=tel],
+    #distributorForm input[type=range] {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .navbar .navbar-brand {
+        font-size: 22px;
+    }
+
+    .banner-content {
+        padding-top: 46px;
+    }
+
+    .footer .footer-logo {
+        font-size: 22px;
+    }
+
+    .footer h5 {
+        margin-bottom: 3px;
+        font-size: 18px;
+    }
+
+    h1 {
+        font-size: 35px;
+    }
+
+    h2 {
+        font-size: 28px;
+    }
+
+    h5 {
+        font-size: 18px;
+    }
+
+    .banner .banner-content button,
+    .contact-form button,
+    #distributorForm #submitBtn {
+        font-size: 15px;
+    }
+
+    div.dt-container div.dt-search {
+        text-align: end;
+    }
+
+    .footer .footer-news a,
+    .footer .footer-contact li {
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 425px) {
+
+    h1 {
+        font-size: 28px;
+    }
+
+    h2 {
+        font-size: 26px;
+    }
+
+    h5 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .banner .banner-content button,
+    .contact-form button,
+    #distributorForm #submitBtn {
+        padding: 8px 16px;
+    }
+
+    strong {
+        font-size: 14px;
+    }
+
+
+    .modal-title {
+        font-size: 18px;
+    }
+
+    .modal-body {
+        font-size: 14px;
+        padding: 30px 20px;
+    }
+
+}
+
+
+
+@media (max-width: 375px) {
+
+    h1 {
+        font-size: 25px;
+    }
+
+    h2 {
+        font-size: 22px;
+    }
+
+    h5 {
+        font-size: 15px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    .banner .banner-content button,
+    .contact-form button,
+    #distributorForm #submitBtn {
+        font-size: 14px;
+        padding: 7px 14px;
+    }
+
+}
