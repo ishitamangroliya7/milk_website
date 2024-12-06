@@ -12,6 +12,7 @@ option and also add Utilizes a DataTable to display large sets of distributor-re
 
 SASS Framework for Styling:
 Ensures a clean and modern aesthetic by leveraging reusable and modular SASS components.
+
 --> sass --watch sass/style.scss:css/style.css
 
 
